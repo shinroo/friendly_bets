@@ -35,6 +35,7 @@ canvas {
     background-color: #FFFFFFDD;
     border-radius: 25px;
     text-align: center;
+    overflow-y: auto;
 }
 
 p, th, td {
